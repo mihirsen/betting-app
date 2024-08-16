@@ -1,0 +1,19 @@
+{
+  "name": "betting-app",
+  "version": "1.0.0",
+  "description": "betting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihirsen/betting-app.git"
+  },
+  "author": "Mihir Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihirsen/betting-app/issues"
+  },
+  "homepage": "https://github.com/mihirsen/betting-app#readme"
+}
